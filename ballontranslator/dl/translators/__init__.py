@@ -34,7 +34,8 @@ LANGMAP_GLOBAL = {
     'limba română': '',
     'русский язык': '',
     'español': '',
-    'Türk dili': ''        
+    'Türk dili': '',
+    'Українська мова': ''
 }
 
 SYSTEM_LANG = ''
