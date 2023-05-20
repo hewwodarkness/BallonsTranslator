@@ -244,7 +244,8 @@ class GoogleTranslator(TranslatorBase):
         self.lang_map['limba română'] = 'ro'
         self.lang_map['русский язык'] = 'ru'
         self.lang_map['español'] = 'es'
-        self.lang_map['Türk dili'] = 'tr'
+        self.lang_map['Türk dili'] = 'tr',
+        self.lang_map['Українська мова'] = 'uk'
 
         from .google_trans import GoogleTranslator
         self.googletrans = GoogleTranslator()
