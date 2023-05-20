@@ -20,12 +20,16 @@ $ git clone https://github.com/dmMaze/BallonsTranslator.git ; cd BallonsTranslat
 # install requirements_macOS.txt on macOS
 $ pip install -r requirements.txt
 ```
-Якщо вам теж не встановлювало усі плагіни крім pkuseg використайте ось це:
+Якщо вам теж встановило усі плагіни крім pkuseg використайте ось це:
 
 ```bash
 pip install https://pypi.tuna.tsinghua.edu.cn/simple pkuseg
 ```
+## Важлива інформація
 
+Для красивого тексту використовуйте шрифти:
+- MP Manga Font Bold
+- Anime Ace v05
 ## Результати перекладання
 |            Оригінал            |         Переклад українською         |
 | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
