@@ -30,7 +30,18 @@ pip install https://pypi.tuna.tsinghua.edu.cn/simple pkuseg
 Для красивого тексту використовуйте шрифти:
 - MP Manga Font Bold
 - Anime Ace v05
-## Результати перекладання
+
+Налаштування для перекладу манги:
+- DL MODULE
+
+      ctd, 1280, 4, cuda
+- OCR
+
+      mit32px, 16, cuda
+- Inpaint
+
+      aot, 2048, cuda
+## Результати перекладу
 |            Оригінал            |         Переклад українською         |
 | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
 |![Original](ballontranslator/data/testpacks/manga/original2.jpg 'https://twitter.com/mmd_96yuki/status/1320122899005460481')|  ![original2](https://github.com/hewwodarkness/BallonsTranslator/assets/66019326/e611992a-869e-4466-83b3-5dc3e983326a) |
